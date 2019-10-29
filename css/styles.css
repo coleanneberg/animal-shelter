@@ -6,3 +6,19 @@ width: 200px;
 width: 500px;
 float: left;
 }
+
+body  {
+  font-family: sans-serif;
+}
+
+h2 {
+  color: green;
+}
+
+h2 {
+  color: green;
+  font-style: italic;
+
+}
+
+}
